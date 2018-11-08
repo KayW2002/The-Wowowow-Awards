@@ -1,0 +1,18 @@
+.background{
+    background-image: url("https://d2gg9evh47fn9z.cloudfront.net/800px_COLOURBOX4012119.jpg");
+    background-repeat: repeat-x;
+}
+body{
+    background-color: #f7cc9e;
+}
+.header{
+    font-family: 'Monoton', cursive;
+    font-size: 90px;
+    color: #e8c9a9;
+    text-align: center;
+}
+h2{
+    font-family: 'Press Start 2P', cursive;
+    text-align: center;
+    font-size: 80px;
+}
